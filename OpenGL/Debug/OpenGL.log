@@ -1,0 +1,15 @@
+﻿  cube.cpp
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\cube.cpp(99,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\cube.cpp(103,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\cube.cpp(104,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  InitShader.cpp
+  main.cpp
+  sphere.cpp
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\sphere.cpp(20,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\sphere.cpp(24,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\sphere.cpp(98,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\sphere.cpp(102,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\HP_DHMT\BC_nhom9_DHMT\project2\OpenGL\sphere.cpp(103,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  LINK : D:\HP_DHMT\BC_nhom9_DHMT\project2\Debug\OpenGL.exe not found or not built by the last incremental link; performing full link
+  OpenGL.vcxproj -> D:\HP_DHMT\BC_nhom9_DHMT\project2\Debug\OpenGL.exe
